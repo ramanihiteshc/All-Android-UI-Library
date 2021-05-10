@@ -1,4 +1,4 @@
-[Githubprofiledate.txt](https://github.com/RamaniHiteshc/All-Android-UI-Library/files/6449473/Githubprofiledate.txt)
+
 # All-Android-UI-Library
 Android UI library  Textview , Imageview , button , menu etc
 
@@ -48,7 +48,7 @@ Android UI library  Textview , Imageview , button , menu etc
 <li><strong>MaterialRatingBar</strong>  Material Design RatingBar with better appearance.<br><a href="https://github.com/DreaminginCodeZH/MaterialRatingBar" target="_blank">https://github.com/DreaminginCodeZH/MaterialRatingBar</a></li>
 <li><strong>youtube-play-icon</strong> Material styled morphing play/pause drawable.<br><a href="https://github.com/alxrm/youtube-play-icon" target="_blank">https://github.com/alxrm/youtube-play-icon</a></li>
 </ol>
-<h4 id="ui"><a name="UI" id="UI"></a>UI</h4>
+<h2 id="ui"><a name="UI" id="UI"></a>UI</h2>
 <ol>
 <li><strong>android-ui</strong>   Android UI library.  Requires API level 14+<br><a href="https://github.com/markushi/android-ui" target="_blank">https://github.com/markushi/android-ui</a></li>
 <li><strong>GreenDroid</strong>   GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.<br><a href="https://github.com/cyrilmottier/GreenDroid" target="_blank">https://github.com/cyrilmottier/GreenDroid</a></li>
@@ -59,7 +59,7 @@ Android UI library  Textview , Imageview , button , menu etc
 <li><strong>Spotlight</strong>  Android Library that lights items for tutorials or walk-throughs etc...
 <a href="https://github.com/TakuSemba/Spotlight" target="_blank">https://github.com/TakuSemba/Spotlight</a></li>
 </ol>
-<h4 id="textviewedittext"><a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText</h4>
+<h2 id="textviewedittext"><a name="TextView/EditText" id="TextView/EditText"></a>TextView/EditText</h2>
 <ol>
 <li><strong>html-textview</strong>  TextView to display simple HTML content<br><a href="https://github.com/SufficientlySecure/html-textview" target="_blank">https://github.com/SufficientlySecure/html-textview</a></li>
 <li><strong>SlantedTextView</strong> Android slanted TextView .     一个倾斜的TextView,适用于标签效果。<br><a href="https://github.com/HeZaiJin/SlantedTextView" target="_blank">https://github.com/HeZaiJin/SlantedTextView</a></li>
@@ -132,7 +132,7 @@ Android UI library  Textview , Imageview , button , menu etc
 <li><strong>CodeView</strong>  Android Code Highlighter<br><a href="https://github.com/tiagohm/CodeView" target="_blank">https://github.com/tiagohm/CodeView</a></li>
 <li><strong>SlantedTextView</strong>  Android slanted TextView<br><a href="https://github.com/HeZaiJin/SlantedTextView" target="_blank">https://github.com/HeZaiJin/SlantedTextView</a></li>
 </ol>
-<h4 id="imageview"><a name="ImageView" id="ImageView"></a>ImageView</h4>
+<h2 id="imageview"><a name="ImageView" id="ImageView"></a>ImageView</h2>
 <ol>
 <li><strong>FrescoImageViewer</strong>  Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures <a href="http://stfalcon.com/" target="_blank">http://stfalcon.com</a><br><a href="https://github.com/stfalcon-studio/FrescoImageViewer" target="_blank">https://github.com/stfalcon-studio/FrescoImageViewer</a></li>
 <li><strong>AndroidGradientImageView</strong>  AndroidGradientImageView is a simple imageview which overlays gradient on its content.<br><a href="https://github.com/skyfe79/AndroidGradientImageView" target="_blank">https://github.com/skyfe79/AndroidGradientImageView</a></li>
@@ -178,7 +178,7 @@ Android UI library  Textview , Imageview , button , menu etc
 <li><strong>DragPhotoView</strong>  A photoView to scale image and finish activity，高仿微信可拖拽返回PhotoView<br><a href="https://github.com/githubwing/DragPhotoView" target="_blank">https://github.com/githubwing/DragPhotoView</a></li>
 <li><strong>ViewEffects</strong> Apply custom effects on view backgrounds<br><a href="https://github.com/mirrajabi/ViewEffects" target="_blank">https://github.com/mirrajabi/ViewEffects</a></li>
 </ol>
-<h4 id="button"><a name="Button" id="Button"></a>Button</h4>
+<h2 id="button"><a name="Button" id="Button"></a>Button</h2>
 <ol>
 <li><strong>circular-progress-button</strong>   Android Circular Progress Button<br><a href="https://github.com/dmytrodanylyk/circular-progress-button" target="_blank">https://github.com/dmytrodanylyk/circular-progress-button</a></li>
 <li><strong>android-process-button</strong> Android Buttons With Built-in Progress Meters.<br><a href="https://github.com/dmytrodanylyk/android-process-button" target="_blank">https://github.com/dmytrodanylyk/android-process-button</a></li>
@@ -206,11 +206,11 @@ Android UI library  Textview , Imageview , button , menu etc
 <li><strong>iOS-SwitchView</strong> A lightweight iOS switch view style for Android
 <a href="https://github.com/luongvo/iOS-SwitchView" target="_blank">https://github.com/luongvo/iOS-SwitchView</a></li>
 </ol>
-<h4 id="checkbox"><a name="CheckBox" id="CheckBox"></a>CheckBox</h4>
+<h2 id="checkbox"><a name="CheckBox" id="CheckBox"></a>CheckBox</h2>
 <ol>
 <li><strong>AnimCheckBox</strong>  AnimCheckBox<br><a href="https://github.com/lguipeng/AnimCheckBox" target="_blank">https://github.com/lguipeng/AnimCheckBox</a></li>
 </ol>
-<h4 id="progressbarprogress-view"><a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View</h4>
+<h2 id="progressbarprogress-view"><a name="Progressbar/Progress_View" id="Progressbar/Progress_View"></a>Progressbar/Progress View</h2>
 <ol>
 <li><strong>AwesomeProgressbar</strong>   支持左右两边同时滚动的进度条<br><a href="https://github.com/alex5241/AwesomeProgressbar" target="_blank">https://github.com/alex5241/AwesomeProgressbar</a></li>
 <li><strong>BounceLoadingView</strong>   模仿饿了么加载效果<br><a href="https://github.com/niniloveyou/BounceLoadingView" target="_blank">https://github.com/niniloveyou/BounceLoadingView</a></li>
@@ -273,7 +273,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>GADownloading</strong>  GADownloading<br><a href="https://github.com/Ajian-studio/GADownloading" target="_blank">https://github.com/Ajian-studio/GADownloading</a></li>
 <li><strong>GABottleLoading</strong>   Bezier storm（贝塞尔风暴）<br><a href="https://github.com/Ajian-studio/GABottleLoading" target="_blank">https://github.com/Ajian-studio/GABottleLoading</a></li>
 </ol>
-<h4 id="menu"><a name="Menu" id="Menu"></a>Menu</h4>
+<h2 id="menu"><a name="Menu" id="Menu"></a>Menu</h2>
 <ol>
 <li><strong>Space-Navigation-View</strong>  Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app.<br><a href="https://github.com/armcha/Space-Navigation-View" target="_blank">https://github.com/armcha/Space-Navigation-View</a></li>
 <li><strong>LuseenBottomNavigation</strong>  BottomNavigationView    Designed according Google guideLine
@@ -319,7 +319,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>FragNav</strong>  An Android library for managing multiple stacks of fragments<br><a href="https://github.com/ncapdevi/FragNav" target="_blank">https://github.com/ncapdevi/FragNav</a></li>
 <li><strong>hover</strong>  A floating menu library for Android.<br><a href="https://github.com/google/hover" target="_blank">https://github.com/google/hover</a></li>
 </ol>
-<h4 id="dialog"><a name="Dialog" id="Dialog"></a>Dialog</h4>
+<h2 id="dialog"><a name="Dialog" id="Dialog"></a>Dialog</h2>
 <ol>
 <li><strong>QustomDialog</strong> a quick custom android dialog project<br><a href="https://github.com/danoz73/QustomDialog" target="_blank">https://github.com/danoz73/QustomDialog</a></li>
 <li><strong>Android-RateThisApp</strong> Android library to show "Rate this app" dialog<br><a href="https://github.com/kskkbys/Android-RateThisApp" target="_blank">https://github.com/kskkbys/Android-RateThisApp</a></li>
@@ -334,7 +334,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>spots-dialog</strong>  Android AlertDialog with mowing dots progress indicator<br><a href="https://github.com/d-max/spots-dialog" target="_blank">https://github.com/d-max/spots-dialog</a></li>
 <li><strong>search-dialog</strong>  An awesome and customizable search dialog with built-in search options.<br><a href="https://github.com/mirrajabi/search-dialog" target="_blank">https://github.com/mirrajabi/search-dialog</a></li>
 </ol>
-<h4 id="listviewscrollview"><a name="ListView/ScrollView" id="ListView/ScrollView"></a>ListView/ScrollView</h4>
+<h2 id="listviewscrollview"><a name="ListView/ScrollView" id="ListView/ScrollView"></a>ListView/ScrollView</h2>
 <ol>
 <li><strong>CommonPullToRefresh</strong>   Android widget with pull to refresh for all the views,and support loadMore for ListView , RecyclerView, GridView and SwipeRefreshLayout.<br><a href="https://github.com/Chanven/CommonPullToRefresh" target="_blank">https://github.com/Chanven/CommonPullToRefresh</a></li>
 <li><strong>pinned-section-listview</strong> Easy to use ListView with pinned sections for Android.<br><a href="https://github.com/beworker/pinned-section-listview" target="_blank">https://github.com/beworker/pinned-section-listview</a></li>
@@ -379,7 +379,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>Animated Expanding ListView</strong>   Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.<br><a href="https://github.com/LeonardoCardoso/Animated-Expanding-ListView" target="_blank">https://github.com/LeonardoCardoso/Animated-Expanding-ListView</a></li>
 <li><strong>FanLayoutManager</strong>  Using Fan Layout Manager you can implement the horizontal list, the items of which move like fan blades <a href="https://www.cleveroad.com/" target="_blank">https://www.cleveroad.com</a><br><a href="https://github.com/Cleveroad/FanLayoutManager" target="_blank">https://github.com/Cleveroad/FanLayoutManager</a></li>
 </ol>
-<h4 id="gridview"><a name="GridView" id="GridView"></a>GridView</h4>
+<h2 id="gridview"><a name="GridView" id="GridView"></a>GridView</h2>
 <ol>
 <li><strong>two-way-gridview</strong> An Android GridView that can be configured to scroll horizontally or vertically<br><a href="https://github.com/jess-anders/two-way-gridview" target="_blank">https://github.com/jess-anders/two-way-gridview</a></li>
 <li><strong>AsymmetricGridView</strong> Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span<br><a href="https://github.com/felipecsl/AsymmetricGridView" target="_blank">https://github.com/felipecsl/AsymmetricGridView</a></li>
@@ -393,11 +393,11 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>android-GridViewWithHeaderAndFooter</strong>  GridView with Header and Footer<br><a href="https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter" target="_blank">https://github.com/liaohuqiu/android-GridViewWithHeaderAndFooter</a></li>
 <li><strong>DragExpandGrid</strong>   可展开，可拖动，可排序，可删除，固定更多的GridView<br><a href="https://github.com/wedcel/DragExpandGrid" target="_blank">https://github.com/wedcel/DragExpandGrid</a></li>
 </ol>
-<h4 id="ratingview"><a name="RatingView" id="RatingView"></a>RatingView</h4>
+<h2 id="ratingview"><a name="RatingView" id="RatingView"></a>RatingView</h2>
 <ol>
 <li><strong>SimpleRatingView</strong>  A rating toggle for Android which switches between 3 rating levels: positive, neutral, and negative.<br><a href="https://github.com/xiprox/SimpleRatingView" target="_blank">https://github.com/xiprox/SimpleRatingView</a></li>
 </ol>
-<h4 id="recyclerview"><a name="Recyclerview" id="Recyclerview"></a>Recyclerview</h4>
+<h2 id="recyclerview"><a name="Recyclerview" id="Recyclerview"></a>Recyclerview</h2>
 <ol>
 <li><strong>ChipsLayoutManager</strong> ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features<br><a href="https://github.com/BelooS/ChipsLayoutManager" target="_blank">https://github.com/BelooS/ChipsLayoutManager</a></li>
 <li><strong>RecyclerTabLayout</strong>  An efficient TabLayout library implemented with RecyclerView.<br><a href="https://github.com/nshmura/RecyclerTabLayout" target="_blank">https://github.com/nshmura/RecyclerTabLayout</a></li>
@@ -430,11 +430,11 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>epoxy</strong> Epoxy is an Android library for building complex screens in a RecyclerView.<br><a href="https://github.com/airbnb/epoxy" target="_blank">https://github.com/airbnb/epoxy</a></li>
 <li><strong>ShimmerRecyclerView</strong> A custom recycler view with shimmer views to indicate that views are loading.<br><a href="https://github.com/sharish/ShimmerRecyclerView" target="_blank">https://github.com/sharish/ShimmerRecyclerView</a></li>
 </ol>
-<h4 id="searchview"><a name="SearchView" id="SearchView"></a>SearchView</h4>
+<h2 id="searchview"><a name="SearchView" id="SearchView"></a>SearchView</h2>
 <ol>
 <li><strong>MaterialSearchView</strong> Cute library to implement SearchView in a Material Design Approach <a href="http://miguelcatalan.info/2015/09/23/MaterialSearchView/" target="_blank">http://miguelcatalan.info/2015/09/23/MaterialSearchView/</a><br><a href="https://github.com/MiguelCatalan/MaterialSearchView" target="_blank">https://github.com/MiguelCatalan/MaterialSearchView</a></li>
 </ol>
-<h4 id="viewpager"><a name="ViewPager" id="ViewPager"></a>ViewPager</h4>
+<h2 id="viewpager"><a name="ViewPager" id="ViewPager"></a>ViewPager</h2>
 <ol>
 <li><strong>ViewPagerCards</strong>  ViewPager cards inspired by Duolingo<br><a href="https://github.com/rubensousa/ViewPagerCards" target="_blank">https://github.com/rubensousa/ViewPagerCards</a></li>
 <li><strong>WoWoViewPager</strong> Optimized for scrolling app intros or making your CV app. Free and open source.<br><a href="https://github.com/Nightonke/WoWoViewPager" target="_blank">https://github.com/Nightonke/WoWoViewPager</a></li>
@@ -459,7 +459,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>ParallaxViewPager</strong>  ViewPager页面切换视差效果<br><a href="https://github.com/ybq/ParallaxViewPager" target="_blank">https://github.com/ybq/ParallaxViewPager</a></li>
 <li><strong>BubbleTab</strong>  Put some bubble in your tabs and give your apps a supa fresh style !<br><a href="https://github.com/florent37/BubbleTab" target="_blank">https://github.com/florent37/BubbleTab</a></li>
 </ol>
-<h4 id="actionbar"><a name="ActionBar" id="ActionBar"></a>ActionBar</h4>
+<h2 id="actionbar"><a name="ActionBar" id="ActionBar"></a>ActionBar</h2>
 <ol>
 <li><strong>ActionBarSherlock</strong>   Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.<br><a href="https://github.com/JakeWharton/ActionBarSherlock" target="_blank">https://github.com/JakeWharton/ActionBarSherlock</a></li>
 <li><strong>TabBarView</strong>  An Android Library to help you create actionbar tabs like "Capitaine train" app by Cyril Mottier<br><a href="https://github.com/Mirkoddd/TabBarView" target="_blank">https://github.com/Mirkoddd/TabBarView</a></li>
@@ -467,18 +467,18 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>FadingActionBar</strong>    Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app<br><a href="https://github.com/ManuelPeinado/FadingActionBar" target="_blank">https://github.com/ManuelPeinado/FadingActionBar</a>    </li>
 <li><strong>GlassActionBar</strong>    Android - a library that adds a glass-like effect to the action bar.<br><a href="https://github.com/ManuelPeinado/GlassActionBar" target="_blank">https://github.com/ManuelPeinado/GlassActionBar</a></li>
 </ol>
-<h4 id="snackbar"><a name="Snackbar" id="Snackbar"></a>Snackbar</h4>
+<h2 id="snackbar"><a name="Snackbar" id="Snackbar"></a>Snackbar</h2>
 <ol>
 <li><strong>TSnackBar</strong>  Android Snackbar from the Top (similar to Crouton)<br><a href="https://github.com/AndreiD/TSnackBar" target="_blank">https://github.com/AndreiD/TSnackBar</a></li>
 </ol>
-<h4 id="fragment"><a name="Fragment" id="Fragment"></a>Fragment</h4>
+<h2 id="fragment"><a name="Fragment" id="Fragment"></a>Fragment</h2>
 <ol>
 <li><strong>Android-CircularRevealFragment</strong>  A demo about how to show and hide fragments using the new Android Lollipop circle reveal transitions.   Minimum API level is 21<br><a href="https://github.com/ferdy182/Android-CircularRevealFragment" target="_blank">https://github.com/ferdy182/Android-CircularRevealFragment</a></li>
 <li><strong>StatedFragment</strong>  The library is documented in <a href="http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en" target="_blank">http://inthecheesefactory.com/blog/best-approach-to-keep-android-fragment-state/en</a><br><a href="https://github.com/nuuneoi/StatedFragment" target="_blank">https://github.com/nuuneoi/StatedFragment</a></li>
 <li><strong>EtsyBlur</strong>  EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the Etsy app.<br><a href="https://github.com/Manabu-GT/EtsyBlur" target="_blank">https://github.com/Manabu-GT/EtsyBlur</a></li>
 <li><strong>UIBlock</strong>  代替fragment的轻量级解耦UI的类<br><a href="https://github.com/tianzhijiexian/UIBlock" target="_blank">https://github.com/tianzhijiexian/UIBlock</a></li>
 </ol>
-<h4 id="activity"><a name="Activity" id="Activity"></a>Activity</h4>
+<h2 id="activity"><a name="Activity" id="Activity"></a>Activity</h2>
 <ol>
 <li><strong>ActivityStarter</strong> Android Library that provide simpler way to start the Activities with multiple arguments.<br><a href="https://github.com/MarcinMoskala/ActivityStarter" target="_blank">https://github.com/MarcinMoskala/ActivityStarter</a></li>
 <li><strong>CustomActivityOnCrash</strong> Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.<br><a href="https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash" target="_blank">https://github.com/Ereza/CustomActivityOnCrashhttps://github.com/Ereza/CustomActivityOnCrash</a></li>
@@ -487,11 +487,11 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>EasyIntro</strong> The flexible, easy to use, all in one app intro library for your Android project.<br><a href="https://github.com/meNESS/EasyIntro" target="_blank">https://github.com/meNESS/EasyIntro</a></li>
 <li><strong>TGOCMessagesActivity</strong> Flexible chat activity for Android.<br><a href="https://github.com/two-guys-one-code/TGOCMessagesActivity" target="_blank">https://github.com/two-guys-one-code/TGOCMessagesActivity</a></li>
 </ol>
-<h4 id="tabs"><a name="Tabs" id="Tabs"></a>Tabs</h4>
+<h2 id="tabs"><a name="Tabs" id="Tabs"></a>Tabs</h2>
 <ol>
 <li><strong>NavigationTabBar</strong> Navigation tab bar with colorful interactions.<br><a href="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" target="_blank">https://github.com/DevLight-Mobile-Agency/NavigationTabBar</a></li>
 </ol>
-<h4 id="toast"><a name="Toast" id="Toast"></a>Toast</h4>
+<h2 id="toast"><a name="Toast" id="Toast"></a>Toast</h2>
 <ol>
 <li><strong>Crouton</strong>      Context sensitive notifications for Android<br><a href="https://github.com/keyboardsurfer/Crouton" target="_blank">https://github.com/keyboardsurfer/Crouton</a>  </li>
 <li><strong>SuperToasts</strong> A library that extends the Android toast framework.<br><a href="https://github.com/JohnPersano/SuperToasts" target="_blank">https://github.com/JohnPersano/SuperToasts</a></li>
@@ -505,7 +505,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <ol>
 <li><strong>TastyToast</strong>   Make your native android toast look beautiful.<br><a href="https://github.com/yadav-rahul/TastyToast" target="_blank">https://github.com/yadav-rahul/TastyToast</a></li>
 </ol>
-<h4 id="lockview"><a name="LockView" id="LockView"></a>LockView</h4>
+<h2 id="lockview"><a name="LockView" id="LockView"></a>LockView</h2>
 <ol>
 <li><strong>MaterialPatternllockView</strong>   Material Pattern Lockview is a View which inspired from Lollipop+ Pattern lock. This Project is still in work, More Options will be added as soon as possible. Some KeyFeature of this Library.<br><a href="https://github.com/AmniX/MaterialPatternllockView" target="_blank">https://github.com/AmniX/MaterialPatternllockView</a></li>
 <li><strong>PinLockView</strong>   A clean, minimalistic, easy-to-use and highly customizable pin lock custom view for Android
@@ -515,7 +515,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>PatternLockView</strong>   An easy-to-use, customizable, Material Design complaint Pattern Lock view for Android
 <a href="https://github.com/aritraroy/PatternLockView" target="_blank">https://github.com/aritraroy/PatternLockView</a></li>
 </ol>
-<h4 id="seekbar"><a name="SeekBar" id="SeekBar"></a>SeekBar</h4>
+<h2 id="seekbar"><a name="SeekBar" id="SeekBar"></a>SeekBar</h2>
 <ol>
 <li><strong>ColorSeekBar</strong> A colorful SeekBar for picking color<br><a href="https://github.com/rtugeek/ColorSeekBar" target="_blank">https://github.com/rtugeek/ColorSeekBar</a></li>
 <li><strong>HoloCircleSeekBar</strong>     A Circle SeekBar inspired by Android Holo ColorPicker designed by Marie Schweiz and developed by Lars Werkman.<br><a href="https://github.com/JesusM/HoloCircleSeekBar" target="_blank">https://github.com/JesusM/HoloCircleSeekBar</a></li>
@@ -530,11 +530,11 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>HorizontalWheelView</strong>  Custom view for user input that models horizontal wheel controller.<br><a href="https://github.com/shchurov/HorizontalWheelView" target="_blank">https://github.com/shchurov/HorizontalWheelView</a></li>
 <li><strong>BubbleSeekBar</strong> 自定义SeekBar，进度变化由可视化气泡样式呈现<br><a href="https://github.com/woxingxiao/BubbleSeekBar" target="_blank">https://github.com/woxingxiao/BubbleSeekBar</a></li>
 </ol>
-<h4 id="popupwindow"><a name="PopupWindow" id="PopupWindow"></a>PopupWindow</h4>
+<h2 id="popupwindow"><a name="PopupWindow" id="PopupWindow"></a>PopupWindow</h2>
 <ol>
 <li><strong>RelativePopupWindow</strong>  Android PopupWindow that can be easily located relative to anchor View.<br><a href="https://github.com/kakajika/RelativePopupWindow" target="_blank">https://github.com/kakajika/RelativePopupWindow</a></li>
 </ol>
-<h4 id="time-view"><a name="Time_View" id="Time_View"></a>Time View</h4>
+<h2 id="time-view"><a name="Time_View" id="Time_View"></a>Time View</h2>
 <ol>
 <li><strong>Timecon</strong>  Easy-to-use animated clock icon<br><a href="https://github.com/alxrm/Timecon" target="_blank">https://github.com/alxrm/Timecon</a></li>
 <li><strong>Caldroid</strong>  Caldroid is a fragment that display calendar with dates in a month. Caldroid can be used as embedded fragment, or as dialog fragment. User can also swipe left/right to navigate to different months.<br><a href="https://github.com/roomorama/Caldroid" target="_blank">https://github.com/roomorama/Caldroid</a></li>
@@ -561,7 +561,7 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>LightCalendarView</strong> A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.<br><a href="https://github.com/recruit-mp/LightCalendarView" target="_blank">https://github.com/recruit-mp/LightCalendarView</a></li>
 <li><strong>DateTimeRangePicker</strong> A date time range picker for android written in Kotlin<br><a href="https://github.com/skedgo/DateTimeRangePicker" target="_blank">https://github.com/skedgo/DateTimeRangePicker</a></li>
 </ol>
-<h4 id="layout"><a name="Layout" id="Layout"></a>Layout</h4>
+<h2 id="layout"><a name="Layout" id="Layout"></a>Layout</h2>
 <ol>
 <li><strong>ThreeDLayout</strong>  A 3D Layout,When you use it warp other view,it can became a 3D view<br><a href="https://github.com/githubwing/ThreeDLayout" target="_blank">https://github.com/githubwing/ThreeDLayout</a></li>
 <li><strong>CompoundLayout</strong>  It's an Android library that allows you to use Layout as RadioButton or CheckBox.<br><a href="https://github.com/Jaouan/CompoundLayout" target="_blank">https://github.com/Jaouan/CompoundLayout</a></li>
@@ -628,28 +628,28 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>Vorolay</strong> VoronoiView is a view (ViewGroup) that allows you to add and display views inside Voronoi diagram regions.<br><a href="https://github.com/Quatja/Vorolay" target="_blank">https://github.com/Quatja/Vorolay</a></li>
 <li><em>**</em>  Android Activity 滑动返回<br><a href="https://github.com/bingoogolapple/BGASwipeBackLayout-Android" target="_blank">https://github.com/bingoogolapple/BGASwipeBackLayout-Android</a></li>
 </ol>
-<h4 id="toolbar"><a name="Toolbar" id="Toolbar"></a>Toolbar</h4>
+<h2 id="toolbar"><a name="Toolbar" id="Toolbar"></a>Toolbar</h2>
 <ol>
 <li><strong>CollapsingAvatarToolbar</strong>  Collapsing Toolbar with a moving avatar for Android.<br><a href="https://github.com/Sloy/CollapsingAvatarToolbar" target="_blank">https://github.com/Sloy/CollapsingAvatarToolbar</a></li>
 <li><strong>FABToolbar</strong>  An implementation of Google design, with Floating Action Button transforming into toolbar.<br><a href="https://github.com/fafaldo/FABToolbar" target="_blank">https://github.com/fafaldo/FABToolbar</a></li>
 </ol>
-<h4 id="videoview"><a name="VideoView" id="VideoView"></a>VideoView</h4>
+<h2 id="videoview"><a name="VideoView" id="VideoView"></a>VideoView</h2>
 <ol>
 <li><strong>video-crop</strong>  Android Video Crop<br><a href="https://github.com/dmytrodanylyk/video-crop" target="_blank">https://github.com/dmytrodanylyk/video-crop</a></li>
 <li><strong>Android-ScalableVideoView</strong> Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more<br><a href="https://github.com/yqritc/Android-ScalableVideoView" target="_blank">https://github.com/yqritc/Android-ScalableVideoView</a></li>
 <li><strong>UniversalVideoView</strong>   UniversalVideoView is a Android widget helps playing video easier, which is similar with the Android system native VideoView, but with more Media Controller customization.(<a href="https://github.com/linsea/UniversalVideoView" target="_blank">https://github.com/linsea/UniversalVideoView</a>)<br><a href="https://github.com/linsea/UniversalVideoView" target="_blank">https://github.com/linsea/UniversalVideoView</a></li>
 </ol>
-<h4 id="mapview"><a name="Mapview" id="Mapview"></a>Mapview</h4>
+<h2 id="mapview"><a name="Mapview" id="Mapview"></a>Mapview</h2>
 <ol>
 <li><strong>AirMapView</strong>  A view abstraction to provide a map user interface with various underlying map providers<br><a href="https://github.com/airbnb/AirMapView" target="_blank">https://github.com/airbnb/AirMapView</a></li>
 <li><strong>Google Maps Android API utility library</strong> This open-source library contains classes that are useful for a wide range of applications using the Google Maps Android API.<br><a href="https://github.com/googlemaps/android-maps-utils" target="_blank">https://github.com/googlemaps/android-maps-utils</a></li>
 <li><strong>MapScaleView</strong> Scale bar for Google Maps Android API.<br><a href="https://github.com/pengrad/MapScaleView" target="_blank">https://github.com/pengrad/MapScaleView</a></li>
 </ol>
-<h4 id="choreographer"><a name="Choreographer" id="Choreographer"></a>Choreographer</h4>
+<h2 id="choreographer"><a name="Choreographer" id="Choreographer"></a>Choreographer</h2>
 <ol>
 <li><strong>Takt</strong>  Takt is Android library for measuring the FPS using Choreographer.<br><a href="https://github.com/wasabeef/Takt" target="_blank">https://github.com/wasabeef/Takt</a></li>
 </ol>
-<h4 id="tag"><a name="Tag" id="Tag"></a>Tag</h4>
+<h2 id="tag"><a name="Tag" id="Tag"></a>Tag</h2>
 <ol>
 <li><strong>AndroidTagGroup</strong>  :four_leaf_clover:A beautiful android tag group widget.<br><a href="https://github.com/2dxgujun/AndroidTagGroup" target="_blank">https://github.com/2dxgujun/AndroidTagGroup</a></li>
 <li><strong>AndroidTagView</strong>  A TagView library for Android. Customize your own &amp; Drag effect.<br><a href="https://github.com/whilu/AndroidTagView" target="_blank">https://github.com/whilu/AndroidTagView</a></li>
@@ -660,22 +660,22 @@ And this project is not using the image file!<br><a href="https://github.com/rec
 <li><strong>android-tagview</strong> Simple android view to display list of colorful tags efficiently.<br><a href="https://github.com/mcharmas/android-tagview" target="_blank">https://github.com/mcharmas/android-tagview</a></li>
 <li><strong>3dTagCloudAndroid</strong> A tagcloud component implemenation to android<br><a href="https://github.com/misakuo/3dTagCloudAndroid" target="_blank">https://github.com/misakuo/3dTagCloudAndroid</a></li>
 </ol>
-<h4 id="keyboard"><a name="Keyboard" id="Keyboard"></a>Keyboard</h4>
+<h2 id="keyboard"><a name="Keyboard" id="Keyboard"></a>Keyboard</h2>
 <ol>
 <li><strong>XhsEmoticonsKeyboard</strong>  也许是最良心的开源表情键盘解决方案。<br><a href="https://github.com/w446108264/XhsEmoticonsKeyboard" target="_blank">https://github.com/w446108264/XhsEmoticonsKeyboard</a></li>
 <li><strong>AndroidKeyboardWatcher</strong>  Software keyboard open/close watcher for Android.<br><a href="https://github.com/AzimoLabs/AndroidKeyboardWatcher" target="_blank">https://github.com/AzimoLabs/AndroidKeyboardWatcher</a></li>
 </ol>
-<h4 id="webview"><a name="WebView" id="WebView"></a>WebView</h4>
+<h2 id="webview"><a name="WebView" id="WebView"></a>WebView</h2>
 <ol>
 <li><strong>safe-java-js-webview-bridge</strong> 为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案 <a href="http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/" target="_blank">http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/</a><br><a href="https://github.com/pedant/safe-java-js-webview-bridge" target="_blank">https://github.com/pedant/safe-java-js-webview-bridge</a></li>
 <li><strong>Android-AdvancedWebView</strong> Enhanced WebView component for Android that works as intended out of the box<br><a href="https://github.com/delight-im/Android-AdvancedWebView" target="_blank">https://github.com/delight-im/Android-AdvancedWebView</a></li>
 </ol>
-<h4 id="notification"><a name="WebView" id="WebView"></a>Notification</h4>
+<h2 id="notification"><a name="WebView" id="WebView"></a>Notification</h2>
 <ol>
 <li><strong>Carousel-Notification</strong>  Carousel-Notification lets you make carousel type notification where user can navigate within the notification
 <a href="https://github.com/shaileshmamgain5/Carousel-Notification" target="_blank">https://github.com/shaileshmamgain5/Carousel-Notification</a></li>
 </ol>
-<h4 id="other"><a name="Other" id="Other"></a>Other</h4>
+<h2 id="other"><a name="Other" id="Other"></a>Other</h2>
 <ol>
 <li><strong>TagViewGroup</strong> Android 仿小红书图片标签，实现了图片标签的动画，布局，水波纹，编辑等功能，还可以自定义 Tag。<br><a href="https://github.com/shellljx/TagViewGroup" target="_blank">https://github.com/shellljx/TagViewGroup</a></li>
 <li><strong>EasyFlipView</strong> A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc.<br><a href="https://github.com/wajahatkarim3/EasyFlipView" target="_blank">https://github.com/wajahatkarim3/EasyFlipView</a></li>
